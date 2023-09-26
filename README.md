@@ -13,4 +13,5 @@ A continuación se muestran los materiales del curso
 |4|7|Aplicación de los diodos (Parte 1)||
 |4|8|Aplicación de los diodos (Parte 2)||
 |5|9|Aplicación de los diodos (Parte 3)||
-|5|10|||
+|5|10|Analisis DC de circuitos con transistores BJT|[link](transistores/analisis-dc/)|
+|5|11|El transistor BJT como interruptor|[link](transistores/bjt-switch/)|
